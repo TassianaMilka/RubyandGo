@@ -16,9 +16,12 @@ Olá a todos esse repositório contém a função para postar os código realiza
 # --------------------------------------------------------------------------------------------------------------------------------
 # Summary in English
 Hello today     Language the programming in Ruby
-1.Today  nu       
-2.
-3.                     about Ruby;
+1.Today  nu     
+
+2.jgjghjghjg
+
+2.                     about Ruby;
+              
 # --------------------------------------------------------------------------------------------------------------------------------
 # Resumen en Español
 Hola    a funcion de postar 

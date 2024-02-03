@@ -22,6 +22,6 @@ Hello everyone is about Language the programming in Ruby.
 # Resumen en Español
 Hola todos tienes la funcion sobre cada  código en Ruby. 
 1. Cada código está en ordien para indentificacion;       
-2.Os      código.                                                                                            
+2.Explicaciones ý para entendese código.                                                                                            
 # --------------------------------------------------------------------------------------------------------------------------------
 (Muito Obrigada),(Thank You),(Gracias) is (どうもありがとうございます)

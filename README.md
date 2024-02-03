@@ -6,6 +6,7 @@ Summary in Portuguese,English,Spanish.
 
 # Resumo em Português
 Olá a todos esse repositório contém a função para postar os código realizado da Linguagem de Programação em Ruby.
+
 1.Todos estão com numeração para identificação da ordem;
 2.Contém comentários para compreender o código;
 3.Vou postar os principais itens sobre Ruby;

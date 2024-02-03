@@ -16,7 +16,7 @@ Hello everyone is about Language the programming in Ruby.
 
 1.Today  nu     
 
-2.The explication to underets code;
+2.The explication to understand code;
            
 # --------------------------------------------------------------------------------------------------------------------------------
 # Resumen en Español

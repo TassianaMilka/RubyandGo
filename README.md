@@ -10,24 +10,18 @@ Olá a todos esse repositório contém a função para postar os código realiza
 1.Todos estão com numeração para identificação da ordem;
 
 2.Contém comentários para compreender o código;
-
-3.Vou postar os principais itens sobre Ruby.
-
 # --------------------------------------------------------------------------------------------------------------------------------
 # Summary in English
-Hello today     Language the programming in Ruby
+Hello everyone is about Language the programming in Ruby.
 
 1.Today  nu     
 
-2.jgjghjghjg
-
-2.                     about Ruby;
-              
+2.The explication to underst code;
+           
 # --------------------------------------------------------------------------------------------------------------------------------
 # Resumen en Español
-Hola    a funcion de postar 
+Hola todos     funcion de postar 
 1.          identificacion ordien;
-2.                                                  ]bfh
-3.            sobrie Ruby;                                              
+2.                                                                                            
 # --------------------------------------------------------------------------------------------------------------------------------
 (Muito Obrigada),(Thank You),(Gracias) is (どうもありがとうございます)

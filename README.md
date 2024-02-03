@@ -9,7 +9,7 @@ Olá a todos esse repositório contém a função para postar os código realiza
 
 1.Todos estão com numeração para identificação da ordem;
 
-2.Contém comentários para compreender o código;
+2.Contém comentários para compreender o código.
 # --------------------------------------------------------------------------------------------------------------------------------
 # Summary in English
 Hello everyone is about Language the programming in Ruby.

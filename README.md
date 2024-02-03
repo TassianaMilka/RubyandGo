@@ -14,7 +14,7 @@ Olá a todos esse repositório contém a função para postar os código realiza
 # Summary in English
 Hello everyone is about Language the programming in Ruby.
 
-1.Today  nu     
+1.Everyone number to order description.     
 
 2.The explication to understand code;
            

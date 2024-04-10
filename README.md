@@ -26,4 +26,4 @@ Hola todos tienes la funcion sobre cada  código en Ruby.
      
 2.Explicaciones es para entender código.                                                                                            
 # --------------------------------------------------------------------------------------------------------------------------------
-(Muito Obrigada),(Thank You),(Gracias) is (どうもありがとうございます)
+(Muito Obrigada),(Thank You),(Gracias) and (どうもありがとうございます)

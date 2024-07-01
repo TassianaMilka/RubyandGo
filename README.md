@@ -14,7 +14,8 @@ Olá a todos esse repositório contém a função para postar os código realiza
 3.Todos os enunciados dos exercícios foram criados por mim mesma.
 
 
-# --------------------------------------------------------------------------------------------------------------------------------
+ --------------------------------------------------------------------------------------------------------------------------------
+ 
 # Summary in English
 Hello everyone is about Language the programming in Ruby.
 
@@ -24,7 +25,8 @@ Hello everyone is about Language the programming in Ruby.
 
 3.All the statements of the exercises were created by myself.
            
-# --------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+
 # Resumen en Español
 Hola todos tienes la funcion sobre cada  código en Ruby. 
 
@@ -34,5 +36,6 @@ Hola todos tienes la funcion sobre cada  código en Ruby.
 
 3.Todas las declaraciones de los ejercicios fueron creadas por mi.
 
-# --------------------------------------------------------------------------------------------------------------------------------
+ --------------------------------------------------------------------------------------------------------------------------------
+ 
 (Muito Obrigada),(Thank You),(Gracias) and (どうもありがとうございます)

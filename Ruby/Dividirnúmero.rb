@@ -1,7 +1,7 @@
 #Faça um código que imprima 12,3,1 dentro de uma array e depois dividir
 #o 12 por 3.
 
-
+ 
 #Declaração da variável de array.
 numeros = [12, 3, 1];
 #Imprimir as array  conforme a  ordem declarada.

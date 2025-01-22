@@ -1,7 +1,7 @@
 #Faça utilizando string uma declaração das váriaveis contenha no começo "Temos os melhores
 #produto para sua economia e uma validação de dado se é igual com uma classificação
 #"Não contém no estoque" ou se diferente igual "Contém no estoque".
-
+ 
 #Declaração das váriaveis.
 nomeproduto=1;
 comprarproduto="Temos os melhores produtos para sua economia.";

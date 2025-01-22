@@ -3,7 +3,7 @@
 
 #Declaração das variáveis.
 numero=50;
-#Cálculo da soma.
+#Cálculo da soma. 
 soma=+50;
 #Repetição de laço.
 until numero == 50 do

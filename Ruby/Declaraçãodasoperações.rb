@@ -3,7 +3,7 @@
 
 #Declaração das váriaveis já realizando um cálculo.
 calculo1=8+6;
-calculo2=calculo1/2;
+calculo2=calculo1/2; 
 
 #Imprimir a mensagem para classificar conforme foi definida anteriormente.
 puts"Começando a Programar em Ruby\n";

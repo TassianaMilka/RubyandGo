@@ -8,7 +8,7 @@ valor=23.00+17.50;
 #Imprimir o resultado total do valor.
 puts"O valor total="
 puts valor
-#Validação de dado se o valor é menor.
+#Validação de dado se o valor é menor. 
 if(valor<14)
 
 #Imprimir a mensagem para classificar se é menor.

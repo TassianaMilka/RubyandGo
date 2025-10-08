@@ -1,4 +1,4 @@
-//Faça um código que realiza a soma de 120 a ele mesmo e depois o resultado seja novamento os mesmo números.
+//Faça um código que realiza a soma de 120 a ele mesmo e depois o resultado seja novamente os mesmos números.
 
 
 package main //Ponto de entrada  

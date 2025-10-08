@@ -9,8 +9,8 @@ func main() {  //Função principal do programa
 
     //Declaração das variáveis e cálculos
     
-    var soma= 120+120;
-    var sub=soma-120;
+    var soma int =120+120;
+    var sub  int =soma-120;
  
 
     //Imprimir o resultado

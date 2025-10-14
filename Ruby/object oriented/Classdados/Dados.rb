@@ -1,3 +1,5 @@
+#Faça um código de uma orientação a objeto simples do nome,idade e profissao que possa imprimir os dados.
+
 # Nome da classe
 class Dados
   # Método construtor

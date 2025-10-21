@@ -6,7 +6,7 @@ import "fmt" //format(formatação para imprimir o println)
 
 func main() {
 
-   //Declaração de variavel e realização do cálculo
+   //Declaração de variável e realização do cálculo
     
    var calculo float64=1569/80-120;
 

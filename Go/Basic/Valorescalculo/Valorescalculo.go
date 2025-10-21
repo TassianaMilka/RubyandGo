@@ -1,5 +1,5 @@
 
-//Faça um código destinado para saber o cáclulo de valores R$900,00 e R$900,00 o seu resultado final.
+//Faça um código destinado para saber o cáclulo de valores de soma R$900,00 e R$900,00 o seu resultado final.
 
 package main //Ponto de entrada
 
